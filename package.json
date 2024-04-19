@@ -6,7 +6,7 @@
     "node" : ">=20.0.0"
     },
     "scripts": {
-    "start": "node Maher-Zubair.js"
+    "start": "node Miles.js"
   },
   "author": "Maher-Zubair",
   "license": "GPL-3.0 license",
