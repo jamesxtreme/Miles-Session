@@ -60,7 +60,7 @@ router.get('/', async (req, res) => {
 *_🕸Session Id Generated Through Pair Code🕷_*
 *_This Is The  Beginning Of Your Legendary Adventure With Miles_*
 
-_Developer-Https://tinyurl.com/295kym87_`
+_Developer- https://t.ly/GGqOn_`
  await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
  
 
