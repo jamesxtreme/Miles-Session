@@ -59,10 +59,10 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id, { text: '' + b64data });
 	
 				   let SIGMA_MD_TEXT = `
-*_🕸Session Id Generated Through Qr Code🕷_*
-*_This Is The  Beginning Of Your Legendary Adventure With Miles_*
+*_🕸𝚂𝚎𝚜𝚜𝚒𝚘𝚗 𝙸𝚍 𝚐𝚎𝚗𝚎𝚛𝚊𝚝𝚎𝚍 𝚝𝚑𝚛𝚘𝚞𝚐𝚑 𝚀𝚁 𝚌𝚘𝚍𝚎🕷_*
+*_𝚃𝚑𝚒𝚜 𝚒𝚜 𝚝𝚑𝚎 𝚋𝚎𝚐𝚒𝚗𝚗𝚒𝚗𝚐 𝚘𝚏 𝚢𝚘𝚞𝚛 𝚕𝚎𝚐𝚎𝚗𝚍𝚊𝚛𝚢 𝚊𝚍𝚟𝚎𝚗𝚝𝚞𝚛𝚎 𝚠𝚒𝚝𝚑 𝙼𝚒𝚕𝚎𝚜_*
 	
-_Developer-Https://tinyurl.com/295kym87_`
+_𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛- https://t.ly/GGqOn_`
 	 await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
 
 
